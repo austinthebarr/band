@@ -1,0 +1,15 @@
+.sidebar {
+  float:right;
+  width: 750px;
+}
+
+.whatever {
+  width:30%;
+  float: right;
+}
+
+.column {
+
+  width: 300px;
+  float: left;
+}
