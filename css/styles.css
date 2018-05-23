@@ -1,11 +1,17 @@
 .sidebar {
   float:right;
-  width: 750px;
+  width: 10%;
+  border: 4px solid blue;
+  padding: 10px;
+  background-color: purple;
+  margin-left: 90%;
+  margin-top: 10px;
 }
 
 .whatever {
   width:30%;
   float: right;
+  padding: 30px 30px
 }
 
 .column {
